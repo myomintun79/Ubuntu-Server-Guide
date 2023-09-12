@@ -16,4 +16,7 @@ https://learnubuntu.com/top-ubuntu-commands/
 # Secure the SSH Server
 https://itslinuxfoss.com/secure-ssh-server-ubuntu-22-04/
 
+# How to Setup DNS Server with BIND
+https://www.howtoforge.com/how-to-setup-dns-server-with-bind-on-ubuntu-22-04/
+
 
