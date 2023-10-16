@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=laC-vefl1Mw&ab_channel=SkillsBuildTraining
 https://linuxhint.com/basic-25-ubuntu-commands/ \
 https://learnubuntu.com/top-ubuntu-commands/
 
+# Managing Users and Groups
+https://www.fosslinux.com/101119/the-guide-to-managing-users-and-groups-in-ubuntu.htm
+
 # Secure the SSH Server
 https://itslinuxfoss.com/secure-ssh-server-ubuntu-22-04/
 
