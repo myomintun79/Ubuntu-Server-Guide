@@ -17,7 +17,8 @@ https://learnubuntu.com/top-ubuntu-commands/
 https://www.fosslinux.com/101119/the-guide-to-managing-users-and-groups-in-ubuntu.htm
 
 # Secure the SSH Server
-https://itslinuxfoss.com/secure-ssh-server-ubuntu-22-04/
+https://itslinuxfoss.com/secure-ssh-server-ubuntu-22-04/ \
+https://devconnected.com/how-to-install-and-enable-ssh-server-on-ubuntu-20-04/
 
 # How to Setup DNS Server with BIND
 https://www.howtoforge.com/how-to-setup-dns-server-with-bind-on-ubuntu-22-04/
