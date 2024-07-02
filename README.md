@@ -30,7 +30,7 @@ https://www.tecmint.com/add-new-disk-to-an-existing-linux/ \
 sudo apt remove [package] \
 sudo apt purge [package]  (Complete uninstall) \
 sudo apt autoremove \
-sudo apt autoclean \
+sudo apt autoclean 
 
 
 
