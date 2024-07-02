@@ -26,3 +26,11 @@ https://www.howtoforge.com/how-to-setup-dns-server-with-bind-on-ubuntu-22-04/
 # How to Add a New Disk to an Existing Linux Server
 https://www.tecmint.com/add-new-disk-to-an-existing-linux/ \
 
+# Uninstall Packages in Ubuntu
+sudo apt remove [package] \
+sudo apt purge [package]  (Complete uninstall) \
+sudo apt autoremove \
+sudo apt autoclean \
+
+
+
