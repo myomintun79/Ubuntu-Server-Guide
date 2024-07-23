@@ -15,6 +15,7 @@ https://learnubuntu.com/top-ubuntu-commands/
 
 # Networking on Ubuntu with Netplan
 https://vitux.com/how-to-configure-networking-with-netplan-on-ubuntu/ \
+https://netplan.readthedocs.io/en/stable/ \
 https://netplan.io/?_gl=1*174lyvg*_gcl_au*MTg5MzAyODI1Ni4xNzIwOTI3OTM3*_ga*OTYwNzgzODIwLjE3MjA4NTYzNjg.*_ga_5LTL1CNEJM*MTcyMTczMDg1NS4zLjEuMTcyMTczMDg5OC4xNy4wLjA.
 
 # Managing Users and Groups
