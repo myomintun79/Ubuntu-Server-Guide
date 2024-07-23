@@ -13,6 +13,10 @@ https://www.youtube.com/watch?v=laC-vefl1Mw&ab_channel=SkillsBuildTraining
 https://linuxhint.com/basic-25-ubuntu-commands/ \
 https://learnubuntu.com/top-ubuntu-commands/
 
+# Networking on Ubuntu with Netplan
+https://vitux.com/how-to-configure-networking-with-netplan-on-ubuntu/ \
+https://netplan.io/?_gl=1*174lyvg*_gcl_au*MTg5MzAyODI1Ni4xNzIwOTI3OTM3*_ga*OTYwNzgzODIwLjE3MjA4NTYzNjg.*_ga_5LTL1CNEJM*MTcyMTczMDg1NS4zLjEuMTcyMTczMDg5OC4xNy4wLjA.
+
 # Managing Users and Groups
 https://www.fosslinux.com/101119/the-guide-to-managing-users-and-groups-in-ubuntu.htm
 
