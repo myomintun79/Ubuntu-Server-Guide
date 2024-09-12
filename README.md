@@ -39,5 +39,9 @@ sudo apt purge [package]  (Complete uninstall) \
 sudo apt autoremove \
 sudo apt autoclean 
 
+# Test network speed with SpeedTest CLI 
+https://www.speedtest.net/apps/cli \
+https://www.youtube.com/watch?v=THbIqdwbuzk&ab_channel=TonyTeachesTech
+
 
 
