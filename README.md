@@ -20,6 +20,10 @@ https://ubuntu.com/server/docs/configuring-networks#:~:text=Network%20configurat
 https://linuxconfig.org/how-to-configure-static-ip-address-on-ubuntu-18-04-bionic-beaver-linux \
 https://netplan.io/?_gl=1*174lyvg*_gcl_au*MTg5MzAyODI1Ni4xNzIwOTI3OTM3*_ga*OTYwNzgzODIwLjE3MjA4NTYzNjg.*_ga_5LTL1CNEJM*MTcyMTczMDg1NS4zLjEuMTcyMTczMDg5OC4xNy4wLjA.
 
+# nmtui in Ubuntu Server
+https://help.ubuntu.com/community/NetworkManager \
+https://ioflood.com/blog/install-nmtui-command-linux/
+
 # Managing Users and Groups
 https://www.fosslinux.com/101119/the-guide-to-managing-users-and-groups-in-ubuntu.htm
 
