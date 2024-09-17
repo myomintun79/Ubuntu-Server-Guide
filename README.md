@@ -47,5 +47,8 @@ sudo apt autoclean
 https://www.speedtest.net/apps/cli \
 https://www.youtube.com/watch?v=THbIqdwbuzk&ab_channel=TonyTeachesTech
 
+# How to Display Contents of a File in Linux
+https://www.liquidweb.com/blog/how-to-display-contents-of-a-file-linux/
+
 
 
