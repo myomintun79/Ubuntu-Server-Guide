@@ -1,7 +1,7 @@
 # Ubuntu-Server-Guide
 For Ubuntu Server Administration
 
-# Swap Size Recommended size from Ubuntu
+# Swap Size Recommended from Ubuntu
 https://help.ubuntu.com/community/SwapFaq
 
 # How To Install Ubuntu 22.04 LTS Server
