@@ -53,5 +53,8 @@ https://www.youtube.com/watch?v=THbIqdwbuzk&ab_channel=TonyTeachesTech
 # How to Display Contents of a File in Linux
 https://www.liquidweb.com/blog/how-to-display-contents-of-a-file-linux/
 
+# Test Disk I/O Performance With dd Command
+https://www.cyberciti.biz/faq/howto-linux-unix-test-disk-performance-with-dd-command/
+
 
 
