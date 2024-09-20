@@ -16,6 +16,9 @@ https://www.fosslinux.com/70065/install-ubuntu-server-22-04-lts.htm](https://www
 https://www.linuxbabe.com/ubuntu/install-lamp-stack-ubuntu-24-04 \
 https://wiki.crowncloud.net/?How_to_Install_LAMP_Stack_with_MariaDB_on_Ubuntu_24_04
 
+# Initial Server Setup on Ubuntu
+https://bartmathijssen.com/initial-server-setup-on-ubuntu/
+
 # Things To Do After Installing Ubuntu 22.04 LTS
 https://www.linuxtechi.com/things-to-do-after-installing-ubuntu-22-04/ \
 https://www.youtube.com/watch?v=laC-vefl1Mw&ab_channel=SkillsBuildTraining
