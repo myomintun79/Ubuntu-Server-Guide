@@ -67,5 +67,9 @@ https://www.cyberciti.biz/faq/howto-linux-unix-test-disk-performance-with-dd-com
 # ISPConfig
 https://mailserverguru.com/install-ispconfig-on-ubuntu-24-04/
 
+# PowerDNS
+https://geekandnix.com/ubuntu/powerdns/ \
+
+
 
 
