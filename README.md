@@ -5,7 +5,8 @@ For Ubuntu Server Administration
 https://help.ubuntu.com/community/SwapFaq
 
 # Ubuntu good guide
-https://www.linuxbabe.com/category/ubuntu
+https://www.linuxbabe.com/category/ubuntu \
+https://www.server-world.info/en/note?os=Ubuntu_24.04&p=download
 
 # How To Install Ubuntu 24.04 LTS Server
 [https://ostechnix.com/install-ubuntu-server \
