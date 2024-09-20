@@ -4,9 +4,12 @@ For Ubuntu Server Administration
 # Swap Size Recommended from Ubuntu
 https://help.ubuntu.com/community/SwapFaq
 
-# How To Install Ubuntu 22.04 LTS Server
-https://ostechnix.com/install-ubuntu-server \
-https://www.fosslinux.com/70065/install-ubuntu-server-22-04-lts.htm
+# Ubuntu good guide
+https://www.linuxbabe.com/category/ubuntu
+
+# How To Install Ubuntu 24.04 LTS Server
+[https://ostechnix.com/install-ubuntu-server \
+https://www.fosslinux.com/70065/install-ubuntu-server-22-04-lts.htm](https://www.server-world.info/en/note?os=Ubuntu_24.04&p=install)
 
 # Things To Do After Installing Ubuntu 22.04 LTS
 https://www.linuxtechi.com/things-to-do-after-installing-ubuntu-22-04/ \
