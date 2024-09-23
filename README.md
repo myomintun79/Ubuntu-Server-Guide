@@ -46,6 +46,11 @@ https://www.fosslinux.com/101119/the-guide-to-managing-users-and-groups-in-ubunt
 https://itslinuxfoss.com/secure-ssh-server-ubuntu-22-04/ \
 https://devconnected.com/how-to-install-and-enable-ssh-server-on-ubuntu-20-04/
 
+# UFW Firewall
+https://phoenixnap.com/kb/configure-firewall-with-ufw-on-ubuntu \
+https://azdigi.com/blog/en/linux-server-en/how-to-install-ufw-configuration-on-ubuntu-debian/ \
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
+
 # How to Setup DNS Server with BIND
 https://www.howtoforge.com/how-to-setup-dns-server-with-bind-on-ubuntu-22-04/
 
