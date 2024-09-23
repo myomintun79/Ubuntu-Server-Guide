@@ -57,8 +57,12 @@ https://geekandnix.com/ubuntu/powerdns/
 # How to Setup DNS Server with BIND
 https://www.howtoforge.com/how-to-setup-dns-server-with-bind-on-ubuntu-22-04/
 
+# Linux Server Monitoring Tools
+https://linuxhandbook.com/system-monitoring-tools/ \
+https://itsfoss.com/linux-system-monitoring-tools/
+
 # How to Add a New Disk to an Existing Linux Server
-https://www.tecmint.com/add-new-disk-to-an-existing-linux/ \
+https://www.tecmint.com/add-new-disk-to-an-existing-linux/ 
 
 # Uninstall Packages in Ubuntu
 sudo apt remove [package] \
