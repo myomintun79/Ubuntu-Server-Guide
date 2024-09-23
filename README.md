@@ -51,6 +51,9 @@ https://phoenixnap.com/kb/configure-firewall-with-ufw-on-ubuntu \
 https://azdigi.com/blog/en/linux-server-en/how-to-install-ufw-configuration-on-ubuntu-debian/ \
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
 
+# PowerDNS
+https://geekandnix.com/ubuntu/powerdns/ 
+
 # How to Setup DNS Server with BIND
 https://www.howtoforge.com/how-to-setup-dns-server-with-bind-on-ubuntu-22-04/
 
@@ -77,8 +80,10 @@ https://www.cyberciti.biz/faq/howto-linux-unix-test-disk-performance-with-dd-com
 # ISPConfig
 https://mailserverguru.com/install-ispconfig-on-ubuntu-24-04/
 
-# PowerDNS
-https://geekandnix.com/ubuntu/powerdns/ \
+# Update & Upgrade
+https://ubuntuhandbook.org/index.php/2024/08/upgrade-to-ubuntu-2404-1/
+
+
 
 
 
