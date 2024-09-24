@@ -30,6 +30,7 @@ https://linuxhint.com/basic-25-ubuntu-commands/ \
 https://learnubuntu.com/top-ubuntu-commands/
 
 # Networking on Ubuntu with Netplan
+https://www.youtube.com/watch?v=PTAlNTpAFsQ&ab_channel=ZonatSolutions \
 https://vitux.com/how-to-configure-networking-with-netplan-on-ubuntu/ \
 https://netplan.readthedocs.io/en/stable/ \
 https://ubuntu.com/server/docs/configuring-networks#:~:text=Network%20configuration%20on%20Ubuntu%20is,via%20a%20YAML%20configuration%20file. \
