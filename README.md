@@ -48,6 +48,10 @@ https://www.fosslinux.com/101119/the-guide-to-managing-users-and-groups-in-ubunt
 https://itslinuxfoss.com/secure-ssh-server-ubuntu-22-04/ \
 https://devconnected.com/how-to-install-and-enable-ssh-server-on-ubuntu-20-04/
 
+# Samba Server on Ubuntu
+https://linux.how2shout.com/install-and-configure-samba-server-on-ubuntu-ubuntu-24-04/ \
+https://www.youtube.com/watch?v=2gW4rWhurUs&ab_channel=KeepItTechie
+
 # UFW Firewall
 https://phoenixnap.com/kb/configure-firewall-with-ufw-on-ubuntu \
 https://azdigi.com/blog/en/linux-server-en/how-to-install-ufw-configuration-on-ubuntu-debian/ \
