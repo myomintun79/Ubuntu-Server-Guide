@@ -89,6 +89,9 @@ https://mailserverguru.com/install-ispconfig-on-ubuntu-24-04/
 # Update & Upgrade
 https://ubuntuhandbook.org/index.php/2024/08/upgrade-to-ubuntu-2404-1/
 
+# Best Script
+https://github.com/masonr/yet-another-bench-script
+
 
 
 
