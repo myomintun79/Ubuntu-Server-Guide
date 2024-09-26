@@ -44,7 +44,8 @@ https://help.ubuntu.com/community/NetworkManager \
 https://ioflood.com/blog/install-nmtui-command-linux/
 
 # Managing Users and Groups
-https://www.fosslinux.com/101119/the-guide-to-managing-users-and-groups-in-ubuntu.htm
+https://www.fosslinux.com/101119/the-guide-to-managing-users-and-groups-in-ubuntu.htm \
+https://phoenixnap.com/kb/how-to-create-sudo-user-on-ubuntu
 
 # Secure the SSH Server
 https://itslinuxfoss.com/secure-ssh-server-ubuntu-22-04/ \
