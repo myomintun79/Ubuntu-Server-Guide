@@ -8,7 +8,8 @@ https://help.ubuntu.com/community/SwapFaq
 https://www.linuxbabe.com/category/ubuntu \
 https://www.server-world.info/en/note?os=Ubuntu_24.04&p=download \
 https://www.computernetworkingnotes.com/ \
-https://www.doublebastion.com/free-server/complete-guide-to-a-complete-linux-server/
+https://www.doublebastion.com/free-server/complete-guide-to-a-complete-linux-server/ \
+https://linuxhandbook.com/
 
 # How To Install Ubuntu 24.04 LTS Server
 [https://ostechnix.com/install-ubuntu-server \
