@@ -73,6 +73,10 @@ https://itsfoss.com/linux-system-monitoring-tools/
 # How to Add a New Disk to an Existing Linux Server
 https://www.tecmint.com/add-new-disk-to-an-existing-linux/ 
 
+# ISPConfig
+https://www.youtube.com/watch?v=c7MjxET_9Io&ab_channel=mailserverguru \
+https://mailserverguru.com/install-ispconfig-on-ubuntu-24-04/
+
 # Uninstall Packages in Ubuntu
 sudo apt remove [package] \
 sudo apt purge [package]  (Complete uninstall) \
