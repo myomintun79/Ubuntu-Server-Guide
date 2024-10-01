@@ -2,7 +2,8 @@
 For Ubuntu Server Administration
 
 # Swap Size Recommended from Ubuntu
-https://help.ubuntu.com/community/SwapFaq
+https://help.ubuntu.com/community/SwapFaq \
+https://www.computernetworkingnotes.com/linux-tutorials/the-swap-space-on-linux-explained.html
 
 # All Linux guide
 https://www.linuxbabe.com/category/ubuntu \
