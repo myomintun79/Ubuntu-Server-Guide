@@ -52,6 +52,9 @@ https://phoenixnap.com/kb/how-to-create-sudo-user-on-ubuntu
 https://itslinuxfoss.com/secure-ssh-server-ubuntu-22-04/ \
 https://devconnected.com/how-to-install-and-enable-ssh-server-on-ubuntu-20-04/
 
+# Fail2ban
+https://medium.com/@amitkumar23476d/how-to-install-fail2ban-for-enhanced-ssh-security-on-ubuntu-24-04-a7e91715a0f4
+
 # Samba Server on Ubuntu
 https://linux.how2shout.com/install-and-configure-samba-server-on-ubuntu-ubuntu-24-04/ \
 https://www.youtube.com/watch?v=2gW4rWhurUs&ab_channel=KeepItTechie
