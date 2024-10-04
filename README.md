@@ -38,7 +38,9 @@ https://vitux.com/how-to-configure-networking-with-netplan-on-ubuntu/ \
 https://netplan.readthedocs.io/en/stable/ \
 https://ubuntu.com/server/docs/configuring-networks#:~:text=Network%20configuration%20on%20Ubuntu%20is,via%20a%20YAML%20configuration%20file. \
 https://linuxconfig.org/how-to-configure-static-ip-address-on-ubuntu-18-04-bionic-beaver-linux \
-https://netplan.io/?_gl=1*174lyvg*_gcl_au*MTg5MzAyODI1Ni4xNzIwOTI3OTM3*_ga*OTYwNzgzODIwLjE3MjA4NTYzNjg.*_ga_5LTL1CNEJM*MTcyMTczMDg1NS4zLjEuMTcyMTczMDg5OC4xNy4wLjA.
+https://netplan.io/?_gl=1*174lyvg*_gcl_au*MTg5MzAyODI1Ni4xNzIwOTI3OTM3*_ga*OTYwNzgzODIwLjE3MjA4NTYzNjg.*_ga_5LTL1CNEJM*MTcyMTczMDg1NS4zLjEuMTcyMTczMDg5OC4xNy4wLjA. \
+Netplan Example \
+https://github.com/canonical/netplan/tree/main/examples
 
 # nmtui in Ubuntu Server
 https://help.ubuntu.com/community/NetworkManager \
