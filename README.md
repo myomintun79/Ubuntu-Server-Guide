@@ -25,7 +25,7 @@ https://bartmathijssen.com/initial-server-setup-on-ubuntu/ \
 https://thomasventurini.com/articles/how-i-setup-an-ubuntu-server/
 
 # Things To Do After Installing Ubuntu 22.04 LTS
-https://www.linuxtechi.com/things-to-do-after-installing-ubuntu-22-04/ \
+https://jumpcloud.com/blog/things-to-do-after-installing-ubuntu-24-04 \
 https://www.youtube.com/watch?v=laC-vefl1Mw&ab_channel=SkillsBuildTraining
 
 # 25 basic Ubuntu Commands
