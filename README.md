@@ -68,7 +68,11 @@ https://azdigi.com/blog/en/linux-server-en/how-to-install-ufw-configuration-on-u
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
 
 # PowerDNS
-https://geekandnix.com/ubuntu/powerdns/ 
+https://geekandnix.com/ubuntu/powerdns/ \
+PowerDNS Recursor(Caching) \
+https://doc.powerdns.com/recursor/ \
+https://www.debiantutorials.com/installing-powerdns-recursor/ \
+
 
 # How to Setup DNS Server with BIND
 https://www.howtoforge.com/how-to-setup-dns-server-with-bind-on-ubuntu-22-04/
