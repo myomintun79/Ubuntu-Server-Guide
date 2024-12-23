@@ -73,6 +73,11 @@ PowerDNS Recursor(Caching) \
 https://doc.powerdns.com/recursor/ \
 https://www.debiantutorials.com/installing-powerdns-recursor/ \
 
+# Keepalived-HAProxy
+https://www.keepalived.org/ \
+https://forum.proxmox.com/threads/ha-for-proxmox-cluster-management-portal.142926/ \
+
+
 
 # How to Setup DNS Server with BIND
 https://www.howtoforge.com/how-to-setup-dns-server-with-bind-on-ubuntu-22-04/
