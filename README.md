@@ -76,6 +76,7 @@ https://www.debiantutorials.com/installing-powerdns-recursor/ \
 # Keepalived-HAProxy
 https://www.keepalived.org/ \
 https://forum.proxmox.com/threads/ha-for-proxmox-cluster-management-portal.142926/ \
+https://docs.iredmail.org/haproxy.keepalived.glusterfs.html
 
 
 
