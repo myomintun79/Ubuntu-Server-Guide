@@ -5,6 +5,11 @@ For Ubuntu Server Administration
 https://help.ubuntu.com/community/SwapFaq \
 https://www.computernetworkingnotes.com/linux-tutorials/the-swap-space-on-linux-explained.html
 
+# Ubuntu-minimal Server(for network tools)
+apt-get install iputils-ping \
+apt install net-tools \
+apt install nano
+
 # All Linux guide
 https://www.linuxbabe.com/category/ubuntu \
 https://www.server-world.info/en/note?os=Ubuntu_24.04&p=download \
