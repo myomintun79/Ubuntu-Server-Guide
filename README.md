@@ -16,6 +16,7 @@ ip link show \
 ip a (or) ip addr \
 ip -o link show | awk '{print $2, $17}' \
 ip link show | awk '/link\/ether/ {print iface, $2} {iface=$2}' \
+ip -brief link
 
 # All Linux guide
 https://www.linuxbabe.com/category/ubuntu \
