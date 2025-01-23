@@ -10,6 +10,13 @@ apt-get install iputils-ping \
 apt install net-tools \
 apt install nano
 
+# Network Commands
+ifconfig \
+ip link show \
+ip a (or) ip addr \
+ip -o link show | awk '{print $2, $17}' \
+ip link show | awk '/link\/ether/ {print iface, $2} {iface=$2}' \
+
 # All Linux guide
 https://www.linuxbabe.com/category/ubuntu \
 https://www.server-world.info/en/note?os=Ubuntu_24.04&p=download \
