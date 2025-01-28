@@ -69,7 +69,7 @@ sudo usermod -aG sudo johndoe \
 groups \
 groups johndoe \
 Delete a User \
-sudo userdel -r johndoe
+sudo userdel -r johndoe \
 https://www.fosslinux.com/101119/the-guide-to-managing-users-and-groups-in-ubuntu.htm \
 https://phoenixnap.com/kb/how-to-create-sudo-user-on-ubuntu
 
