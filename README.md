@@ -60,6 +60,16 @@ https://help.ubuntu.com/community/NetworkManager \
 https://ioflood.com/blog/install-nmtui-command-linux/
 
 # Managing Users and Groups
+sudo useradd johndoe \
+Add a new user with a home directory \
+sudo useradd -m johndoe \
+sudo passwd johndoe \
+sudo chsh -s /bin/bash johndoe \
+sudo usermod -aG sudo johndoe \
+groups \
+groups johndoe \
+Delete a User \
+sudo userdel -r johndoe
 https://www.fosslinux.com/101119/the-guide-to-managing-users-and-groups-in-ubuntu.htm \
 https://phoenixnap.com/kb/how-to-create-sudo-user-on-ubuntu
 
