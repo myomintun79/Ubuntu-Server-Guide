@@ -37,7 +37,7 @@ https://www.fosslinux.com/70065/install-ubuntu-server-22-04-lts.htm](https://www
 
 # LAMP Setup in Ubuntu 24.04 Server
 https://www.linuxbabe.com/ubuntu/install-lamp-stack-ubuntu-24-04 \
-https://wiki.crowncloud.net/?How_to_Install_LAMP_Stack_with_MariaDB_on_Ubuntu_24_04
+https://wiki.crowncloud.net/?How_to_Install_LAMP_Stack_with_MariaDB_on_Ubuntu_24_04 \
 
 # Initial Server Setup on Ubuntu
 https://bartmathijssen.com/initial-server-setup-on-ubuntu/ \
