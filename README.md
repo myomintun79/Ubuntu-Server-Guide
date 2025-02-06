@@ -129,6 +129,11 @@ sudo apt purge [package]  (Complete uninstall) \
 sudo apt autoremove \
 sudo apt autoclean 
 
+# Zabbix
+https://www.zabbix.com/ \
+https://www.chirags.in/index.php/135/install-and-configure-zabbix-with-apache-and-mysql-for-ubuntu \
+https://bestmonitoringtools.com/how-to-install-zabbix-server-on-ubuntu/
+
 # Test network speed with SpeedTest CLI 
 https://www.speedtest.net/apps/cli \
 https://www.youtube.com/watch?v=THbIqdwbuzk&ab_channel=TonyTeachesTech \
