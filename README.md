@@ -18,6 +18,12 @@ ip -o link show | awk '{print $2, $17}' \
 ip link show | awk '/link\/ether/ {print iface, $2} {iface=$2}' \
 ip -brief link
 
+# Resize Storage in Ubuntu(Proxmox)-without LVM
+lsblk \
+sudo growpart /dev/sda 2 \
+sudo resize2fs /dev/sda2 \
+df -h
+
 # All Linux guide
 https://www.linuxbabe.com/category/ubuntu \
 https://www.server-world.info/en/note?os=Ubuntu_24.04&p=download \
