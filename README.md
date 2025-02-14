@@ -135,6 +135,8 @@ https://www.chirags.in/index.php/135/install-and-configure-zabbix-with-apache-an
 https://bestmonitoringtools.com/how-to-install-zabbix-server-on-ubuntu/
 
 # Test network speed with SpeedTest CLI 
+sudo snap install fast \
+fast
 https://www.speedtest.net/apps/cli \
 https://www.youtube.com/watch?v=THbIqdwbuzk&ab_channel=TonyTeachesTech \
 https://www.omglinux.com/test-internet-speed-from-the-command-line/
