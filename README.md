@@ -161,6 +161,13 @@ https://www.cyberciti.biz/faq/copy-command/ \
 https://www.geeksforgeeks.org/cp-command-linux-examples/ \
 https://www.youtube.com/watch?v=4sKhKVzGolo&ab_channel=SusanB.
 
+# Postgresql & Pgadmin
+https://www.linuxtechi.com/how-to-install-pgadmin-on-ubuntu/ \
+https://linux.how2shout.com/install-postgresql-pgadmin-4-on-ubuntu-22-04-lts-jammy-linux/ \
+https://www.cherryservers.com/blog/install-postgresql-ubuntu \
+https://www.youtube.com/watch?v=BycCEzP5eRc&ab_channel=ProgrammingKnowledge2
+
+
 # File Permissions and Sharing Files
 https://www.maths.cam.ac.uk/computing/linux/unixinfo/perms#:~:text=755%20means%20you%20can%20do,users%20can%20only%20read%20it. \
 https://www.guru99.com/file-permissions.html
