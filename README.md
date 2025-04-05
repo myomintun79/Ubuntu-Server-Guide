@@ -124,8 +124,16 @@ https://www.youtube.com/watch?v=c7MjxET_9Io&ab_channel=mailserverguru \
 https://mailserverguru.com/install-ispconfig-on-ubuntu-24-04/
 
 # Uninstall Packages in Ubuntu
+Check package
+dpkg -l | grep packagename \
 sudo apt remove [package] \
 sudo apt purge [package]  (Complete uninstall) \
+sudo snap remove <package-name> \
+sudo dpkg -r <package-name> \
+sudo apt remove python3-packagename \
+sudo apt purge python3-packagename \
+pip uninstall packagename \
+pip3 uninstall packagename \
 sudo apt autoremove \
 sudo apt autoclean 
 
