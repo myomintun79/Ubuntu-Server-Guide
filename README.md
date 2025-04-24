@@ -47,6 +47,11 @@ https://thomasventurini.com/articles/how-i-setup-an-ubuntu-server/
 https://jumpcloud.com/blog/things-to-do-after-installing-ubuntu-24-04 \
 https://www.youtube.com/watch?v=laC-vefl1Mw&ab_channel=SkillsBuildTraining
 
+# View file
+ls -l \
+stat -c "%a %n" * \
+stat -c "%a %n" filename 
+
 # 25 basic Ubuntu Commands
 https://linuxhint.com/basic-25-ubuntu-commands/ \
 https://learnubuntu.com/top-ubuntu-commands/
