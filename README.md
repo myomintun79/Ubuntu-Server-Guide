@@ -39,6 +39,13 @@ https://www.fosslinux.com/70065/install-ubuntu-server-22-04-lts.htm](https://www
 https://www.linuxbabe.com/ubuntu/install-lamp-stack-ubuntu-24-04 \
 https://wiki.crowncloud.net/?How_to_Install_LAMP_Stack_with_MariaDB_on_Ubuntu_24_04 \
 
+# Apache Web Server
+https://www.youtube.com/watch?v=MJ7ojfh7DKk&ab_channel=TeraByte \
+https://www.youtube.com/watch?v=OyzZEQCjZsA&ab_channel=PHPCoderUSA \
+https://www.magetop.com/blog/host-multiple-websites-on-one-apache-server-on-ubuntu/ \
+https://greenhost.cloud/how-to-set-up-apache-virtual-hosts-on-ubuntu-24-04-lts/ \
+https://operisoft.com/devops/server/host-multiple-websites-onapache-server-in-ubuntu/
+
 # Initial Server Setup on Ubuntu
 https://bartmathijssen.com/initial-server-setup-on-ubuntu/ \
 https://thomasventurini.com/articles/how-i-setup-an-ubuntu-server/
