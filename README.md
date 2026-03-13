@@ -125,6 +125,7 @@ https://docs.iredmail.org/haproxy.keepalived.glusterfs.html
 https://www.howtoforge.com/how-to-setup-dns-server-with-bind-on-ubuntu-22-04/
 
 # Linux Server Monitoring Tools
+https://github.com/fastfetch-cli/fastfetch \
 https://linuxhandbook.com/system-monitoring-tools/ \
 https://itsfoss.com/linux-system-monitoring-tools/
 
