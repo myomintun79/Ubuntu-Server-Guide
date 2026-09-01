@@ -25,6 +25,7 @@ sudo resize2fs /dev/sda2 \
 df -h
 
 # All Linux guide
+https://www.tecmint.com/ubuntu-server-setup/ \
 https://www.linuxbabe.com/category/ubuntu \
 https://www.server-world.info/en/note?os=Ubuntu_24.04&p=download \
 https://www.computernetworkingnotes.com/ \
